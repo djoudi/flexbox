@@ -66,6 +66,7 @@
     justify-content: space-around;
     align-items: center;
     flex-basis: 20%;
+    border-top: 5px solid green;
 }
 
 /*****************End Header*******************/
